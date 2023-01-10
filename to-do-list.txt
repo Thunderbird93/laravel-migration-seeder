@@ -1,0 +1,16 @@
+1. Creiamo una tabella trains e relativa Migration.
+
+2. Ogni treno dovrà avere:
+Azienda,
+Stazione di partenza,
+Stazione di arrivo,
+Orario di partenza,
+Orario di arrivo,
+Codice Treno,
+Numero Carrozze,
+In orario,
+Cancellato.
+
+3. Aggiungiamo un seeder per la classe Train usando FakerPHP.
+
+4. Stampare a video tutti i treni inseriti.
